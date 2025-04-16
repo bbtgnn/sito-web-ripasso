@@ -1,5 +1,11 @@
 .navbar {
   background-color: greenyellow;
+  padding: 0.2rem 0.5rem;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /*  */
