@@ -1,0 +1,33 @@
+.navbar {
+  background-color: greenyellow;
+}
+
+/*  */
+
+.logo {
+  text-decoration: none;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  width: fit-content;
+
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.logo:hover {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.logo-img {
+  height: 3rem;
+}
+
+.logo-text {
+  color: black;
+  font-size: 1.5rem;
+}
+
+/*  */
